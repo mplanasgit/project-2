@@ -271,9 +271,11 @@ After that I reorganized the two datasets so that the columns matched and I **co
 ![height_weight_HP](images/weight_height_total.jpeg)
 [Interactive version!](images/weight_height_total.html)
 <br/>
+
 The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m. 
 ![Cosmoem](images/cosmoeom.jpg)
 <br/>
 
+
 **Bonus: Pokemon stats make no sense:**
-![mew_krabby](images/mew_krabby.jpg)
+<img src="images/mew_krabby.jpg" width="400"/>
