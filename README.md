@@ -223,7 +223,7 @@ After that I reorganized the two datasets so that the columns matched and I **co
 #### 3.1- When did the franchise stop trying anymore?
 - Apparently from Generation 6:
 
-![Pokemon_by_gen](images/pokemon_by_generation.jpg)
+<img src="images/pokemon_by_generation.jpg" width="600"/>
 
 #### 3.2- Which Pokémon type do developers prefer?
 - Water types are the most prevalent pokémon.
@@ -241,6 +241,9 @@ After that I reorganized the two datasets so that the columns matched and I **co
 ![Total_by_type](images/total_by_type.jpg)
 
 ![Top3_by_stat](images/top3types_by_stats.jpg)
+
+<br/>
+
 <img src="images/pokemon_faster.png" width="600"/>
 
 #### 3.4- Is there a correlation between stats?
