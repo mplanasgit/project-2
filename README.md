@@ -3,7 +3,7 @@
 ![Title](images/APImon.png)
 
 --- 
-#1- Main objective
+# 1- Main objective
 
 To enrich a Pokémon dataset obtained from [Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon):
 
@@ -13,8 +13,8 @@ To enrich a Pokémon dataset obtained from [Kaggle](https://www.kaggle.com/datas
 - In addition, it is missing some **categories** that would make for an interesting investigation. 
 
 ---
-#2- Enriching the dataset
-##2.1- Using the [Poke API](https://pokeapi.co/)
+# 2- Enriching the dataset
+## 2.1- Using the [Poke API](https://pokeapi.co/)
 Defined a function to fetch the **missing pokémon** iterating over the url using the pokémon #ID:
 
 ```python
