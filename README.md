@@ -241,7 +241,7 @@ After that I reorganized the two datasets so that the columns matched and I **co
 ![Total_by_type](images/total_by_type.jpg)
 
 ![Top3_by_stat](images/top3types_by_stats.jpg)
-![dragonite](images/pokemon_faster.png)
+<img src="images/pokemon_faster.png" width="600"/>
 
 #### 3.4- Is there a correlation between stats?
 
@@ -249,7 +249,7 @@ After that I reorganized the two datasets so that the columns matched and I **co
 - The more powerful the pokemon, the more difficult to catch.
 - Legendaries are also more difficult to catch.
 
-![Correlation](images/pokemon_correlation.jpg)
+<img src="images/pokemon_correlation.jpg" width="600"/>
 
 
 ##### 3.4.1- Catch rate vs. Power vs. Speed
@@ -272,10 +272,14 @@ After that I reorganized the two datasets so that the columns matched and I **co
 [Interactive version!](images/weight_height_total.html)
 <br/>
 
-The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m. 
-![Cosmoem](images/cosmoeom.jpg)
+The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m.
+
+<img src="images/cosmoeom.jpg" width="200"/>
+
+<br/>
+<br/>
 <br/>
 
-
 **Bonus: Pokemon stats make no sense:**
-<img src="images/mew_krabby.jpg" width="400"/>
+
+<img src="images/mew_krabby.jpg" width="600"/>
