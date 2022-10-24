@@ -219,3 +219,55 @@ After that I reorganized the two datasets so that the columns matched and I **co
 ---
 
 # 3- Visualization
+
+#### 3.1- When did the franchise stop trying anymore?
+- Apparently from Generation 6:
+
+![Pokemon_by_gen](images/pokemon_by_generation.jpg)
+
+#### 3.2- Which Pokémon type do developers prefer?
+- Water types are the most prevalent pokémon.
+- Type 1 and Type 2 follow an opposite distribution.
+
+![Pokemon_by_type](images/pokemon_by_type.jpg)
+
+![squirtle_squad](images/squirtle-squad.jpg)
+<br/>
+
+#### 3.3- Which Pokémon type should you include in your team?
+- Based on total score, you should definitely go for **dragon** types.
+- Overall, the developers did a good job **balancing** the different types.
+
+![Total_by_type](images/total_by_type.jpg)
+
+![Top3_by_stat](images/top3types_by_stats.jpg)
+![dragonite](images/pokemon_faster.png)
+
+#### 3.4- Is there a correlation between stats?
+
+- The taller, the heavier. There are exceptions, though.
+- The more powerful the pokemon, the more difficult to catch.
+- Legendaries are also more difficult to catch.
+
+![Correlation](images/pokemon_correlation.jpg)
+
+
+##### 3.4.1- Catch rate vs. Power vs. Speed
+- Cathch rate is inversely proportional to power.
+- Legendaries are the most powerful and difficult to catch.
+![catchrate_total_speed](images/catchrate_total_speed.jpeg)
+
+##### 3.4.3- Height vs. Weight vs. Catch rate
+- Apparently the smaller the pokemon, the more easy it is to catch it.
+![height_weight_catchrate](images/speed_weight_HP.jpeg)
+
+##### 3.4.2- Height vs. Weight vs. HP
+- Height and weight show a positive correlation.
+- The amount of health points (HP) correlates pretty well with the size of the pokémon.
+![height_weight_HP](images/weight_height_total.jpeg)
+The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m. 
+![Cosmoem](images/cosmoeom.jpg)
+<br/>
+
+**Pokemon stats make no sense:**
+![mew_krabby](images/mew_krabby.jpg)
