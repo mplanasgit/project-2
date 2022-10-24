@@ -256,18 +256,24 @@ After that I reorganized the two datasets so that the columns matched and I **co
 - Cathch rate is inversely proportional to power.
 - Legendaries are the most powerful and difficult to catch.
 ![catchrate_total_speed](images/catchrate_total_speed.jpeg)
+[Interactive version!](images/catchrate_total_speed.html)
+<br/>
 
 ##### 3.4.3- Height vs. Weight vs. Catch rate
 - Apparently the smaller the pokemon, the more easy it is to catch it.
 ![height_weight_catchrate](images/speed_weight_HP.jpeg)
+[Interactive version!](images/speed_weight_HP.html)
+<br/>
 
 ##### 3.4.2- Height vs. Weight vs. HP
 - Height and weight show a positive correlation.
 - The amount of health points (HP) correlates pretty well with the size of the pokémon.
 ![height_weight_HP](images/weight_height_total.jpeg)
+[Interactive version!](images/weight_height_total.html)
+<br/>
 The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m. 
 ![Cosmoem](images/cosmoeom.jpg)
 <br/>
 
-**Pokemon stats make no sense:**
+**Bonus: Pokemon stats make no sense:**
 ![mew_krabby](images/mew_krabby.jpg)
