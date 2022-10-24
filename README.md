@@ -121,7 +121,7 @@ From the Pokémon wiki ([WikiDex](https://www.wikidex.net/wiki/WikiDex)) I extra
 
 ![Fetching_types](images/Wikidex_types.jpg)
 
-To fetch the **types** I selected the first paragraph, and `split` by `"typo "` since all descriptions followed the same format. First I checked it worked for one:
+To fetch the **types** I selected the first paragraph, and I `split` by *"tipo "* since all descriptions followed the same format. First I checked that it worked for one:
 
 ![Cleaning_types](images/Wikidex_types_cleaning.jpg)
 
@@ -185,7 +185,7 @@ def getWeight(list_of_pokes):
 
 ![Fetching_catchrate](images/Wikidex_catchrate.jpg)
 
-Followed the same procedure as before, in this case the tag was `ul` and I used RegEx to extract the **digit** fraction after splitting by *Ratio de captura*.
+Followed the same procedure as before, in this case the tag was `ul` and I used RegEx to extract the **digit** fraction after splitting by *"Ratio de captura"*.
 
 ![catch_rate_clean](images/Wikidex_catchrate_cleaning.jpg)
 
