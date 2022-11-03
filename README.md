@@ -261,7 +261,7 @@ After that I reorganized the two datasets so that the columns matched and I **co
 
 ![catchrate_total_speed](images/catchrate_total_speed.jpeg)
 
-[Interactive version!](images/catchrate_total_speed.html)
+[Click here to see an interactive version!](https://mplanasgit.github.io/catchrate_total_speed.html)
 <br/>
 
 ##### 3.4.2- Height vs. Weight vs. vs. HP vs. Catch rate
@@ -271,7 +271,7 @@ After that I reorganized the two datasets so that the columns matched and I **co
 
 ![height_weight_catchrate](images/speed_weight_HP.jpeg)
 
-[Interactive version!](images/speed_weight_HP.html)
+[Click here to see an interactive version!](https://mplanasgit.github.io/height_weight_catchrate.html)
 <br/>
 
 The particular case of [Cosmoem](https://www.wikidex.net/wiki/Cosmoem): 999,9 kg and 0,1 m.
